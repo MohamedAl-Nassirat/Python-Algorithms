@@ -12,6 +12,9 @@ The purpose of this repo is to track my progress in understanding building gener
       - Visualization
       - Optimization 
       - Random pivot + median of 3 integers, etc
+
+
+
 2: Bubble_Sort Algorithm:
 
   - WIP
